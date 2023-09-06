@@ -1,0 +1,5 @@
+# Generated files
+/target
+
+# The lib does not decide about the actual versions to use.
+/Cargo.lock
